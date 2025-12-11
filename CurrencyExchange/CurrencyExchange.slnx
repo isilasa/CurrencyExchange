@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="CurrencyExchange.ApiGateway/CurrencyExchange.ApiGateway.csproj" />
+    <Project Path="CurrencyExchange.BackgroundService/CurrencyExchange.BackgroundService.csproj" />
+    <Project Path="CurrencyExchange.Migrations.Service/CurrencyExchange.Migrations.Service.csproj" />
+  </Folder>
+  <Folder Name="/CurrencyExchange.Finance/">
+    <Project Path="CurrencyExchange.Finance.Api/CurrencyExchange.Finance.Api.csproj" />
+    <Project Path="CurrencyExchange.Finance.Applications/CurrencyExchange.Finance.Application.csproj" Id="0095def9-91ea-497e-aad7-47aab5a78f6d" />
+  </Folder>
+  <Folder Name="/CurrencyExchange.User/">
+    <Project Path="CurrencyExchange.User.Api/CurrencyExchange.User.Api.csproj" />
+    <Project Path="CurrencyExchange.User.Application/CurrencyExchange.User.Application.csproj" Id="40b44874-a2ff-4228-bf82-579f14d02255" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="CurrencyExchange.Tests/CurrencyExchange.Tests.csproj" />
+  </Folder>
+  <Project Path="CurrencyExchange.Core/CurrencyExchange.Core.csproj" />
+  <Project Path="CurrencyExchange.Infrastructure/CurrencyExchange.Infrastructure.csproj" />
+</Solution>
