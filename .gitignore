@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CurrencyExchange/.vs
+/CurrencyExchange/CurrencyExchange.ApiGateway/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.ApiGateway/obj
+/CurrencyExchange/CurrencyExchange.BackgroundService/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.BackgroundService/obj
+/CurrencyExchange/CurrencyExchange.Core/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.Core/obj
+/CurrencyExchange/CurrencyExchange.Finance.Api/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.Finance.Api/obj
+/CurrencyExchange/CurrencyExchange.Finance.Applications/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.Finance.Applications/obj
+/CurrencyExchange/CurrencyExchange.Infrastructure/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.Infrastructure/obj
+/CurrencyExchange/CurrencyExchange.Migrations.Service/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.Migrations.Service/obj
+/CurrencyExchange/CurrencyExchange.Tests/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.Tests/obj
+/CurrencyExchange/CurrencyExchange.User.Api/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.User.Api/obj
+/CurrencyExchange/CurrencyExchange.User.Application/bin/Debug/net8.0
+/CurrencyExchange/CurrencyExchange.User.Application/obj
